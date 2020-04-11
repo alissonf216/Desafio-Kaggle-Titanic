@@ -10,7 +10,7 @@ Modelagem
 Teste
 
 ### Como o Titanic Afundou ? isso foi muito importante para pensar em quais variaveis usar
-Usando essa imagem como apoio, podemos ver onde estão todas as classes do Navio onde começou a afundar, baseando nisso vamos criar nosso modelo.
+Usando essa imagem como apoio, podemos ver onde estão todas as classes do Navio onde começou a afundar, baseando  nessas informações poderamos iniciar a coleta e exploração dos dados.
 # OBS:
 
 Seguindo o Filme usaremos as informações que mulheres e crianças foram privilegiados para o uso dos botes salva-vidas.
