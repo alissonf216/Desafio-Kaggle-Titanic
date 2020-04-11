@@ -10,5 +10,9 @@ Modelagem
 Teste
 
 ### Como o Titanic Afundou ? isso foi muito importante para pensar em quais variaveis usar
-Eu vi essa mapa no modelo de quem está entre o top 1000 do desafio, achei legal e bem util, e vou implementar o meu modelo baseado nisso.
-Image(url= "https://static1.squarespace.com/static/5006453fe4b09ef2252ba068/t/5090b249e4b047ba54dfd258/1351660113175/TItanic-Survival-Infographic.jpg?format=1500w")
+Usando essa imagem como apoio, podemos ver onde estão todas as classes do Navio onde começou a afundar, baseando nisso vamos criar nosso modelo.
+# OBS:
+
+Seguindo o Filme usaremos as informações que mulheres e crianças foram privilegiados para o uso dos botes salva-vidas.
+
+![Resultado](https://images.squarespace-cdn.com/content/5006453fe4b09ef2252ba068/1351660113175-514SN9PXFWB9N2MNB8DV/TItanic-Survival-Infographic.jpg?format=1000w&content-type=image%2Fjpeg)
